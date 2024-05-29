@@ -1,0 +1,6 @@
+Usuario registrado: [nickname = df, password = df]     Fecha: [1]
+Usuario registrado: [nickname = g, password = fg]     Fecha: [1]
+Usuario registrado: [nickname = luis, password = luis]     Fecha: [1]
+Usuario registrado: [nickname = luis, password = ]     Fecha: [1]
+Usuario registrado: [nickname = luis, password = luis]     Fecha: [1]
+Usuario registrado: [nickname = luis, password = luis]     Fecha: [1]
